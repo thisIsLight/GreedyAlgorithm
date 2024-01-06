@@ -1,0 +1,2 @@
+This is greedy algorithm repository.
+Greedy says that we pick the best solution at that point of time.
